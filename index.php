@@ -27,19 +27,19 @@ include_once("dbconnect.php");
 <body>
     <div id="custom-bootstrap-menu" class="navbar navbar-default " role="navigation">
     <div class="container">
-        <div class="navbar-header"><a class="navbar-brand" href="#">Bootstrap</a>
+        <div class="navbar-header"><a class="navbar-brand" href="#">VOTING</a>
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
             </button>
         </div>
         <div class="collapse navbar-collapse navbar-menubuilder">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="/">Home</a>
+                <li><a href="">Home</a>
                 </li>
-                <li><a href="/products">Products</a>
+                <li><a href="">Products</a>
                 </li>
-                <li><a href="/about-us">About Us</a>
+                <li><a href="">About Us</a>
                 </li>
-                <li><a href="/contact">Contact Us</a>
+                <li><a href="">Contact Us</a>
                 </li>
             </ul>
         </div>

@@ -9,7 +9,7 @@ $connection = mysqli_connect($dbhost, $dbuser, $dbpass) or die("Unable to Connec
 mysqli_select_db($connection, $dbname) or die("Could not open the db '$dbname'");
 
 if($connection)
-	echo "connected";
+	echo "";
 else
 	echo "problem";
 ?>
